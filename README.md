@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/GinaVazquez/manuscript/tree/gh-pages) branch hosts the contents of this directory at <https://GinaVazquez.github.io/manuscript/>.
-The permalink for this webpage version is <https://GinaVazquez.github.io/manuscript/v/48c7d75849f6fa24b2c2d6a529edc028f1b2d029/>.
+The permalink for this webpage version is <https://GinaVazquez.github.io/manuscript/v/c9bfa82cda83893d4a596f169a34d420f2f3f495/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://GinaVazquez.github.io/manuscript/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`48c7d75849f6fa24b2c2d6a529edc028f1b2d029`](https://github.com/GinaVazquez/manuscript/commit/48c7d75849f6fa24b2c2d6a529edc028f1b2d029).
+[`c9bfa82cda83893d4a596f169a34d420f2f3f495`](https://github.com/GinaVazquez/manuscript/commit/c9bfa82cda83893d4a596f169a34d420f2f3f495).
