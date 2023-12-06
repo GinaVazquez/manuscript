@@ -1,5 +1,5 @@
 ---
-title: Manuscript Title
+title: test manuscript
 keywords:
 - markdown
 - publishing
@@ -16,15 +16,15 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="test manuscript" />
+  <meta name="citation_title" content="test manuscript" />
+  <meta property="og:title" content="test manuscript" />
+  <meta property="twitter:title" content="test manuscript" />
   <meta name="dc.date" content="2023-12-06" />
   <meta name="citation_publication_date" content="2023-12-06" />
   <meta property="article:published_time" content="2023-12-06" />
-  <meta name="dc.modified" content="2023-12-06T21:54:23+00:00" />
-  <meta property="article:modified_time" content="2023-12-06T21:54:23+00:00" />
+  <meta name="dc.modified" content="2023-12-06T21:56:45+00:00" />
+  <meta property="article:modified_time" content="2023-12-06T21:56:45+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://GinaVazquez.github.io/manuscript/" />
   <meta name="citation_pdf_url" content="https://GinaVazquez.github.io/manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://GinaVazquez.github.io/manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://GinaVazquez.github.io/manuscript/v/48c7d75849f6fa24b2c2d6a529edc028f1b2d029/" />
-  <meta name="manubot_html_url_versioned" content="https://GinaVazquez.github.io/manuscript/v/48c7d75849f6fa24b2c2d6a529edc028f1b2d029/" />
-  <meta name="manubot_pdf_url_versioned" content="https://GinaVazquez.github.io/manuscript/v/48c7d75849f6fa24b2c2d6a529edc028f1b2d029/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://GinaVazquez.github.io/manuscript/v/c9bfa82cda83893d4a596f169a34d420f2f3f495/" />
+  <meta name="manubot_html_url_versioned" content="https://GinaVazquez.github.io/manuscript/v/c9bfa82cda83893d4a596f169a34d420f2f3f495/" />
+  <meta name="manubot_pdf_url_versioned" content="https://GinaVazquez.github.io/manuscript/v/c9bfa82cda83893d4a596f169a34d420f2f3f495/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://GinaVazquez.github.io/manuscript/v/48c7d75849f6fa24b2c2d6a529edc028f1b2d029/))
+([permalink](https://GinaVazquez.github.io/manuscript/v/c9bfa82cda83893d4a596f169a34d420f2f3f495/))
 was automatically generated
-from [GinaVazquez/manuscript@48c7d75](https://github.com/GinaVazquez/manuscript/tree/48c7d75849f6fa24b2c2d6a529edc028f1b2d029)
+from [GinaVazquez/manuscript@c9bfa82](https://github.com/GinaVazquez/manuscript/tree/c9bfa82cda83893d4a596f169a34d420f2f3f495)
 on December 6, 2023.
 </em></small>
 
